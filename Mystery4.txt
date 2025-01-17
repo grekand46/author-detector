@@ -1,0 +1,19 @@
+Apple plans to release a software update that is meant to help users understand better that its notification summaries are AI-generated and may contain errors, according to a recent BBC news story. The update is a response to reports that the summaries gave users misleading information about world events.
+
+For example, one false summary suggested to at least one user that Luigi Mangione, the alleged murderer of UnitedHealthcare CEO Brian Thompson, had committed suicide. The notification in question was meant to summarize the most important tidbits from 22 BBC news app notifications, according to a widely circulated screenshot.
+
+Apple hasn't publicly specified exactly what will be changed to better inform users—only that it will be a software change that will "further clarify" when the notifications have been generated via the feature that resides under the Apple Intelligence umbrella.
+
+The notification summaries, which are generated for individual users and devices via a custom large language model (LLM) Apple has trained, already had a small icon on them to indicate that they were not normal, unaltered notifications from the apps in question.
+
+However, that icon's meaning may not be immediately apparent to most users.
+
+Users can disable the Apple Intelligence notification summaries by accessing the Settings app on their mobile devices.
+
+When contacted for a statement, an Apple spokesperson told Ars:
+
+    Apple Intelligence is designed to help users get everyday tasks done faster and more easily. This includes optional notification summaries, which provide users who choose to opt in a way to briefly view information from apps and tap into the full details whenever they choose. These are identified by a summarization icon, and the original content is a quick tap away. Apple Intelligence features are in beta and we are continuously making improvements with the help of user feedback. A software update in the coming weeks will further clarify when the text being displayed is summarization provided by Apple Intelligence. We encourage users to report a concern if they view an unexpected notification summary.
+
+This issue can’t just be fixed entirely
+
+The BBC stories about the error-prone AI have often seemed to lack understanding of how the Apple Intelligence notification summaries work—for example, in suggesting that all users received the offending notification about Mangione. The wording of the summaries varies on individual devices depending on what other notifications were received around the same time.

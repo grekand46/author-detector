@@ -1,0 +1,21 @@
+The pristine press shots of this one don't really do it justice; photos from Tom's Hardware of the case on the show floor do a better job of conveying just how chaotic this thing looks in person.
+
+MSI's Project Zero X concept case achieves a clean look by using back-connect motherboards. It's very glassy. Credit: MSI
+
+If the Prism is a PC case that looks a little too visible, MSI's Project Zero X is the opposite, with glass that wraps around the back, front, left side, and top of the case to show off everything inside to an even greater degree than most windowed cases.
+
+This is a follow-up to the original Project Zero concept case, which wasn't quite as glassy. The (relatively) unique thing about both cases is that they're designed around motherboards with all their various connectors on the back side—often referred to as "back-connect" motherboards. The power plugs, fan and USB headers, power button, and everything else you need to plug cables into when you install a motherboard are all facing the opposite direction from your CPU socket, RAM slots, and PCI Express cards.
+
+The point is to make it easier to create clean, show-off-able builds without as much cable management hassle, which is why you'd combine it with a case that shows your motherboard off from every side but the back.
+A roommate for your gaming PC: MSI MEG MAESTRO 900L PZ
+
+The MSI MEG MAESTRO 900L PZ can fit a full-size E-ATX build and a mini ITX build into the same case at the same time? Because why not? Credit: MSI
+
+MSI also makes the cut for the MEG MAESTRO 900L PZ. This is a hulking monstrosity of a PC case that can, for some reason, fit an E-ATX motherboard, an ITX motherboard, and the power supplies, fans, and GPUs for both systems in the same case at the same time.
+
+Maybe it's a nice way to bring a spare or loaner system with you to a LAN party or an e-sports competition? But it looks and sounds like the kind of thing that requires team lifting to move around.
+Building a bigger Steam Deck
+
+Acer's Nitro Blaze 11, which takes the "portable" out of "portable handheld gaming PC." Credit: Acer
+
+Clones of Valve's handheld Steam Deck gaming PC have become a product category unto themselves, and companies like Asus and Lenovo are already a couple of generations deep into their own versions. One of Lenovo's is the first non-Steam Deck to officially run Steam OS, a sign that Valve could once again be ready to make a move against Windows.

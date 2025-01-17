@@ -1,0 +1,178 @@
+Elon Musk slams SEC as agency threatens charges in Twitter stock probe
+SEC offered settlement in stock probe and is investigating Neuralink, Musk says. 
+Elon Musk has at least one more battle to wage against Securities and Exchange Commission Chair Gary Gensler, who will be leaving the agency when President-elect Trump takes over in January. 
+
+Musk yesterday posted a copy of a letter sent to Gensler by Musk's attorney, Alex Spiro.  The letter dated December 12 says the SEC issued a settlement demand in its investigation into whether Musk violated federal securities laws in connection with 2022 purchases of Twitter stock, and that the SEC is investigating Neuralink.  The Spiro letter said:
+
+Spiro accused the SEC of "an improperly motivated campaign" against Musk, his companies, and people associated with him.  "We demand to know who directed these actions—whether it was you or the White House," Spiro wrote.  "These tactics and misguided scheme will not intimidate us.  We reserve all rights. "
+
+Musk wrote in his post sharing the letter, "Oh Gary, how could you do this to me?" He wrote in an earlier post yesterday that "the SEC is just another weaponized institution doing political dirty work. "
+
+Late disclosure of Twitter stock buy
+The SEC began its investigation in April 2022 after Musk acquired a 9 percent stake in Twitter and failed to disclose it within 10 days as required under US law.  He bought the company later that year. 
+Musk previously tried to avoid giving a third round of testimony in the probe, but a federal judge ruled in December 2023 that he had to testify again.  The SEC has said its investigation "relates to all of Musk's purchases of Twitter stock in 2022 and his 2022 statements and SEC filings. "
+An SEC spokesperson told Ars today that the commission's policy is "to conduct investigations on a confidential basis to preserve the integrity of its investigative process.  The SEC therefore does not comment on the existence or nonexistence of a possible investigation. "
+
+A Reuters source confirmed the settlement offer.  "The SEC sent Musk a settlement offer on Tuesday seeking a response in 48 hours, but extended it to Monday after a request for more time, the source said," according to a Reuters article today. 
+
+The settlement offer was also confirmed by a source who spoke to The Washington Post.  "One person familiar with the probe, who spoke on the condition of anonymity to describe a confidential law enforcement proceeding, confirmed that Musk had been sent a settlement offer in recent days," the Post wrote last night.  "But the person said they believed the tech billionaire had actually been given until Monday to evaluate the offer—adding that rejecting a settlement still would not immediately trigger charges by the SEC, which typically sends formal notices before such cases are brought. "
+
+Musk has had several legal battles with the SEC.  In 2018, he and Tesla each agreed to $20 million payments in a settlement over the SEC's complaint that "Musk's misleading tweets" about taking Tesla private caused the stock price to jump "and led to significant market disruption. " He has tried and failed to get out of that settlement, claiming that he was "forced" into signing the deal and that the SEC used the 2018 consent decree to "micro-manage" his social media activity. 
+
+Musk to have influence in Trump admin
+Musk won't have to worry as much about government regulation once Trump takes over.  Trump picked Musk to lead a new Department of Government Efficiency, or "DOGE," which will make recommendations for eliminating regulations, cutting expenses, and restructuring federal agencies. 
+
+As Reuters wrote today, Musk "is set to gain extraordinary influence after spending more than a quarter of a billion dollars to help Donald Trump win November's presidential election.  His companies are expected to be well insulated from regulation and enforcement measures. "
+
+The SEC's November announcement of Gensler's planned departure from the agency touted his work to adopt "several rules to ensure that investors get the disclosure they need from public companies and companies seeking to go public. "
+
+Trump chose Paul Atkins to replace Gensler as SEC chair, calling Atkins an advocate "for common sense regulations. " Atkins, a former SEC commissioner who founded the Patomak Global Partners consultancy firm, testified to Congress in 2019 that the SEC should reduce its disclosure requirements. 
+Report: AT&T, Verizon aren’t notifying most victims of Chinese call-records hack
+Telcos reportedly aren't telling users about call metadata taken in Chinese hack. 
+AT&T and Verizon reportedly are not notifying most customers whose call records were stolen in the ongoing attack attributed to Chinese hacking group Salt Typhoon.  NBC News reported today that "the vast majority of people whose call records have been stolen by Chinese hackers have not been notified, according to industry sources, and there is no indication that most affected people will be notified in the near future. "
+
+US government officials said last week that major telecom companies have been unable to fully evict the Chinese state-sponsored hackers from their networks.  There have been direct notifications to specific targets, such as government officials, whose calls were listened to and whose text messages were accessed.  "President-elect Donald Trump, Vice President-elect JD Vance, senior congressional staffers and an array of US security officials were among scores of individuals to have their calls and texts directly targeted," The Wall Street Journal wrote. 
+
+For most other victims, the data accessed apparently didn't include the contents of communications.  It instead consisted of metadata like the numbers that phones called and when.  These people are not receiving notifications from carriers, NBC News wrote today:
+Notifications not required for every breach
+We contacted AT&T and Verizon today and will update this article if either company provides any information.  While at least eight US communications companies were affected by the Chinese hackers, AT&T and Verizon appear to be the hardest-hit.  T-Mobile and Lumen (also known as CenturyLink) said last week they had no evidence that customer data was accessed. 
+Telecom companies aren't required to notify customers about every breach.  A Federal Communications Commission order in December 2023 adopted a "harm-based notification trigger" in which "notification of a breach to consumers is not required in cases where a carrier can reasonably determine that no harm to customers is reasonably likely to occur as a result of the breach, or where the breach solely involves encrypted data and the carrier has definitive evidence that the encryption key was not also accessed, used, or disclosed. "
+
+The FCC said that harm requiring notifications can include, but is not limited to, "financial harm, physical harm, identity theft, theft of services, potential for blackmail, the disclosure of private facts, the disclosure of contact information for victims of abuse, and other similar types of dangers. "
+
+The FCC order argued that the harm-based standard would let carriers "focus their time, effort, and financial resources on the most important and potentially harmful incidents" and protect "customers from over-notification and notice fatigue, specifically in instances where the carrier has reasonably determined that no harm is likely to occur. "
+
+Senator: Telecoms should tell customers
+US Sen.  Ron Wyden (D-Ore. ) this week criticized the carriers for having weak security and the FCC for "let[ting] phone companies write their own cybersecurity rules. " Wyden proposed legislation to beef up telecom security requirements. 
+
+A spokesperson for Wyden today said that carriers should notify the affected customers. 
+
+"Senator Wyden strongly supports the phone companies notifying their customers about the theft of their data," the spokesperson told Ars.  "Not only do Americans have a right to be told that their information was stolen, but this is useful information that could result in some consumers voting with their wallets and switching service to carriers that retain less data and or have better cybersecurity. "
+
+Stanford University researchers collected and studied telephone metadata for a 2016 paper to determine how it could be used against customers.  "Using crowdsourced telephone logs and social networking information, we find that telephone metadata is densely interconnected, susceptible to reidentification, and enables highly sensitive inferences," they wrote. 
+The FCC's December 2023 order argued that over-notification can cause customers "to change their passwords, purchase fraud alerts or credit monitoring, and freeze their credit in instances where the breach is not reasonably likely to result in any harm. "
+
+FCC: “No single factor” enough to make call
+The FCC provided general guidance for carriers to determine which breaches require notification, saying that "no single factor on its own is sufficient to make a determination regarding harm to customers. " Carriers should look at the "totality" of the data that was breached, the FCC said. 
+
+"For example, the disclosure of a phone number is less likely to create harm than if the number of calls to that phone number, the duration of those calls, the name of the caller, the content of the conversations, and/or other layers of information is also disclosed," the FCC order said. 
+
+The FCC specifically calls out financial information and passwords as data that would probably cause harm if obtained by hackers, but information about call metadata seems to be in a gray area legally.  An FCC spokesperson declined to comment today when asked how the standard applies to call metadata. 
+
+In a different incident involving similar metadata, AT&T disclosed in July that a breach on third-party cloud platform Snowflake exposed the call and text records of nearly all of its cellular customers.  In that case, AT&T said it would "provide notice to current and former customers whose information was involved along with resources to help protect their information. "
+
+The three major carriers have fought against FCC regulation of their data-handling practices.  After the FCC fined the carriers for selling user location data, carriers sued and are arguing that the FCC didn't have authority to issue the penalties. 
+Location data firm helps police find out when suspects visited their doctor
+Leaked form shows how Fog Data helps cops find where suspects have been and when. 
+A location-tracking company that sells its services to police departments is apparently using addresses and coordinates of doctors' and lawyers' offices and other types of locations to help cops compile lists of places visited by suspects, according to a 404 Media report published today. 
+
+Fog Data Science, which says it "harness[es] the power of data to safeguard national security and provide law enforcement with actionable intelligence," has a "Project Intake Form" that asks police for locations where potential suspects and their mobile devices might be found.  The form, obtained by 404 Media, instructs police officers to list locations of friends' and families' houses, associates' homes and offices, and the offices of a person's doctor or lawyer. 
+
+Fog Data has a trove of location data derived from smartphones' geolocation signals, which would already include doctors' offices and many other types of locations even before police ask for information on a specific person.  Details provided by police on the intake form seem likely to help Fog Data conduct more effective searches of its database to find out when suspects visited particular places.  The form also asks police to identify the person of interest's name and/or known aliases and their "link to criminal activity. "
+
+"Known locations a POI [Person of Interest] may visit are valuable, even without dates/times," the form says.  It asks for street addresses or geographic coordinates. 
+We sent a message to Fog Data Science today asking how it uses locations of doctors' offices and other information collected on the form.  We will update this article if it provides a response. 
+A 2022 investigation by the Electronic Frontier Foundation provided insight into Fog Data Science and its Fog Reveal service.  As the EFF wrote:
+“We only have data for the past three years”
+The Fog Data intake form obtained by 404 Media asks police for details that "help us eliminate devices more efficiently. " It asks police to list "Exploitable Presence/Posted Locations on Social Media" and "Distinguishing Characteristics (general age, gender, ethnicity, religion). " It asks for the person of interest's home and work locations and provides additional space for any other locations the person might visit. 
+
+"We only have data for the past three years from today's date," the form says.  "Any link of the POI to a location at a date and/or time helps us.  It can be a gym, house of worship, lunch spot, coffee house, sports arena.  Known routines are particularly useful in this area.  Lat/Long locations are helpful if you have them, but we work with addresses as well. "
+The intake form "was included in an email thread between a Fog representative and Bryan Kimbell, chief human trafficking investigator at the Office of the Attorney General in Georgia," according to 404 Media. 
+
+Services like Fog Data Science have triggered concerns about how police might use location tracking to prosecute abortions.  "For several thousand dollars annually, the software lets police trace unique borders around large, customized regions to generate a list of devices in the area.  Police can use Fog Reveal to geofence entire buildings or street blocks—like the area surrounding an abortion clinic—and get information on devices used within and surrounding those buildings to identify suspects," Ars wrote in November 2022. 
+
+The EFF's 2022 investigation found that Fog obtained data from the firm Venntel, which is the subject of a Federal Trade Commission action.  The FTC last week announced a proposed settlement with Venntel and its owner, Gravy Analytics.  The FTC alleged that "Gravy Analytics and Venntel violated the FTC Act by unfairly selling sensitive consumer location data, and by collecting and using consumers' location data without obtaining verifiable user consent for commercial and government uses. "
+
+"Surreptitious surveillance by data brokers undermines our civil liberties and puts servicemembers, union workers, religious minorities, and others at risk," Samuel Levine, director of the FTC Bureau of Consumer Protection, said in the announcement.  According to the FTC, Gravy Analytics used geofencing "to identify and sell lists of consumers who attended certain events related to medical conditions and places of worship and sold additional lists that associate individual consumers to other sensitive characteristics. "
+
+If the proposed order takes effect, "Gravy Analytics and Venntel will be prohibited from selling, disclosing, or using sensitive location data in any product or service, and must establish a sensitive data location program," the FTC said.  One of the FTC's two Republicans partially dissented from the decision, which may not be finalized until after President-elect Trump takes office. 
+Cable ISPs compare data caps to food menus: Don’t make us offer unlimited soup
+Data plans compared to a "tasting menu, a buffet, or unlimited soup and salad. "
+Cable broadband companies continue to insist that data caps are good for people with low incomes, pushing back against comments filed by consumer advocacy groups.  NCTA—The Internet & Television Association urged the Federal Communications Commission to avoid regulating the monthly data limits and overage charges that cable firms such as Comcast and Cox impose on many Internet plans. 
+
+Advocacy groups "suggest that usage-based pricing disproportionately harms low-income users, reasoning that these users are least able to afford overage fees if they exceed data thresholds," the NCTA said in comments filed last week with the FCC.  "However, in reality, usage-based pricing benefits low-income or price-sensitive consumers by providing additional options for less expensive plans. "
+
+The NCTA contends that "there is no basis for the assertion that regulation is warranted because low-income consumers are uniquely harmed by usage-based pricing.  To the contrary, in many cases usage-based pricing provides more options for consumers, including lower-priced ones, which helps consumers stay connected. "
+
+The cable group argued that data-capped plans are "a way for providers to distinguish their offerings from those of their competitors, which is beneficial for consumers.  The use of different pricing models by a broadband provider is no different than a restaurant choosing to offer a tasting menu, a buffet, or unlimited soup and salad as an alternative to a purely à la carte menu. "
+
+The cable lobby argument is similar to one made by FCC Republican Nathan Simington, who said that requiring unlimited data would be like requiring coffee shops to supply unlimited free refills. 
+
+“Many low-income households have no choice”
+FCC Chairwoman Jessica Rosenworcel and fellow Democrats opened a proceeding to investigate and potentially regulate data caps in October.  But President-elect Donald Trump's pick to replace Rosenworcel, Republican Brendan Carr, agrees with the cable companies and opposes regulation. 
+
+
+For now, the proceeding continues.  The FCC also received joint comments before last week's deadline from advocacy groups Public Knowledge, the Open Technology Institute at New America, the Benton Institute for Broadband & Society, and the National Consumer Law Center (which said it is representing its low-income clients).  The advocacy groups' joint filing said that comments filed by individual Internet users demonstrate the negative effects of data caps on people with low incomes. 
+"Commenters have clearly demonstrated how fees and overage charges, unclear information about data caps, and throttling or caps in the midst of public crises such as natural disasters negatively affect consumers, especially consumers in the lowest income brackets," the filing said. 
+
+The groups said that "many low-income households have no choice but to be limited by data caps because lower priced plan tiers, the only ones they can afford, are typically capped. " Their filing urged the FCC to take action, arguing that federal law provides "ample rulemaking authority to regulate data caps as they are an unjustified, unreasonable business practice and unreasonably discriminate against low-income individuals. "
+
+The filing quoted a December 2023 report by nonprofit news organization Capital B about broadband access problems faced by Black Americans in rural areas.  The article described Internet users such as Gloria Simmons, who had lived in Devereux, Georgia, for over 50 years. 
+
+"But as a retiree on a fixed income, it's too expensive, she says," the Capital B report said.  "She pays $60 a month for fixed wireless Internet with AT&T.  But some months, if she goes over her data usage, it's $10 for each additional 50 gigabytes of data.  If it increases, she says she'll cancel the service, despite its convenience. "
+
+Free Press: “inequitable burden” for low-income users
+Comments filed last month by advocacy group Free Press said that some ISPs don't impose data caps because of competition from fiber-to-the-home (FTTH) and fixed wireless services.  Charter doesn't impose caps, and Comcast has avoided caps in the Northeast US where Verizon's un-capped FiOS fiber-to-the-home service is widely deployed, Free Press said. 
+
+"ISPs like Cox and Comcast (outside of its northeast territory) continue to show that they want their customers to use as much data as possible, so long as they pay a monthly fee for unlimited data, and/or 'upgrade' their service with an expensive monthly equipment rental," Free Press wrote.  "Comcast's continued use of cap-and-fee pricing is particularly egregious because it repeatedly gloats about how robust its network is relative to others in terms of handling heavy traffic volume, and it does not impose caps in the parts of its service area where it faces more robust FTTH competition from FTTH providers. "
+Free Press called the idea of data caps helping low-income users "wishful thinking. "
+
+"The implication is that usage-based pricing schemes would allow lower-income users to reduce their network usage in order to keep their bills lower.  Besides subjecting lower-income users to an inequitable burden that would discourage innovative and beneficial broadband usage, this hypothetical scenario is at best wishful thinking.  As we've documented in this comment and in numerous other proceedings, there is nowhere near enough fixed-line competition to incentivize ISPs to serve all parts of the demand curve.  ISPs' profit maximization efforts would not be as successful if they catered to price-conscious customers," the group said. 
+
+NCTA to FCC: Terminate this proceeding
+The NCTA tried to dispute the Free Press argument about competition driving some ISPs to avoid imposing data caps, saying that "numerous providers have chosen not to offer usage-based pricing at all or to use it in large parts of their footprint without regard to intensity of competition. "
+
+"The fact that some rational acting providers choose not to offer usage-based pricing plans demonstrates that providers use multiple factors in determining whether to offer usage-based pricing," the NCTA said. 
+
+The cable group also wants the FCC to avoid imposing any new reporting or disclosure requirements, saying that the FCC "already has ample information on broadband pricing. " The NCTA ended its filing by urging the FCC to terminate the proceeding. 
+
+"The record in this proceeding demonstrates that usage-based pricing is a reasonable pricing practice that benefits consumers and promotes competition.  Commenters' claims that usage-based pricing should be regulated because it is merely a profit-maximization tool and disproportionately harms low-income consumers are incorrect and should be rejected.  The Commission should also reject requests for additional data collections for usage-based pricing as redundant and a waste of Commission and provider resources.  Instead, the Commission should terminate this proceeding," the NCTA said. 
+AT&T says it won’t build fiber home Internet in half of its wireline footprint
+AT&T is ditching copper and building fiber, but many will get only 5G or satellite. 
+AT&T this week detailed plans to eliminate copper phone and DSL lines from its network while leaving many customers in rural areas with only wireless or satellite as an alternative. 
+
+In a presentation for analysts and investors on Tuesday, AT&T said it has a "wireless first" plan for 50 percent of its 500,000-square-mile wireline territory and a "fiber first" plan for the rest.  The more sparsely populated half accounts for 10 percent of the potential customer base, and AT&T does not plan to build fiber home Internet for those users. 
+
+AT&T said it expects to be able to ditch copper because of state-level deregulation and the impending shift in power at the Federal Communications Commission, where Trump pick Brendan Carr is set to become the chairman.  California is the only state out of 21 in AT&T's wireline territory that hasn't yet granted AT&T's request for deregulation of old networks. 
+
+An AT&T press release said the company "is actively working to exit its legacy copper network operations across the large majority of its wireline footprint by the end of 2029. " AT&T's wireline footprint has 88 million locations, said Susan Johnson, an AT&T executive VP in charge of supply chain and wireline transformation. 
+
+About 21 million of those have access only to voice service.  The other 67 million are eligible for Internet access, and 29 million of those have access to fiber already.  AT&T plans to boost its number of fiber locations to 45 million by the end of 2029 but says it isn't profitable enough to build fiber to the other parts of its old landline phone and DSL networks. 
+AT&T: Fiber not profitable enough in half of footprint
+AT&T reported that its residential business has 13. 97 million Internet connections, including 9. 02 million fiber connections.  Many copper users who don't get fiber will be able to use 5G-based home broadband with AT&T Internet Air and wireless phone service with AT&T Phone-Advanced.  Johnson said that Internet Air offers "up to 25 times faster speeds than legacy ADSL. " But customers who don't get access to the terrestrial wireless service may have to use satellite. 
+"Wireless first is the name for our wire center areas where we have not built and do not plan to build residential fiber.  There's not an economic path to do so," Johnson said.  "These wire centers may still have fiber supporting businesses or cell sites but no consumer fiber.  This is about 50 percent of our land area but it's only 10 percent of the population. " These areas have "four remaining copper customers per square mile," she said. 
+
+Wireless home phone service will be available to "the vast majority of our existing copper-based customers," but not all, she said.  In some areas, "we will need to work with our customers to move them to other technologies, including satellite.  But we've made a pledge that we're going to keep our customers connected through the process and make sure that no customer loses access to voice or 911 services. "
+
+Johnson said AT&T's "plan is to have no customers using copper services in these wire center areas by the end of 2027. " A Republican-majority FCC will help, she said. 
+
+"We are going to work with the FCC to speed up and scale this process, and with the new administration we are optimistic that we can make even more progress in simplifying our networks and migrating our customers over the next several years," Johnson said. 
+
+She said that AT&T Phone-Advanced "was specifically designed to meet the FCC's criteria as an adequate replacement product for our traditional landline phone service, and we have successfully completed the testing with the FCC and we are continuing to move through their preview process. "
+
+AT&T has an application pending with the FCC in a small number of wire centers, "which, if approved, would allow us to replace traditional landline phone service, think POTS [Plain Old Telephone Service], our most regulated product, with AT&T Phone Advanced," Johnson said. California demanded more reliable service
+AT&T already achieved what Johnson called "an absolutely critical precedent" earlier this year when the FCC allowed it to stop accepting new copper-based service orders in 60 wire centers across 13 states, she said.  A wire center consists of a central office and the surrounding infrastructure, including the copper lines that stretch from the central office to homes and businesses.  AT&T has 4,600 wire centers in the US, Johnson said. 
+
+Notably, AT&T's plan to ditch copper currently excludes California, where the Public Utilities Commission rejected AT&T's request to end its landline phone obligations in a June 2024 ruling.  "California is not included in the plans I just laid out for you.  We are continuing to work with policy makers to define our path in that state," Johnson said. 
+
+AT&T is still classified as a Carrier of Last Resort (COLR) in California, and the state telecom agency rejected AT&T's argument that VoIP and mobile services could fill the gap that would exist if AT&T escaped that obligation.  Residents "highlighted the unreliability of voice alternatives" at public hearings, the agency said. 
+
+An administrative law judge at the California agency said AT&T falsely claimed that commission rules require it "to retain outdated copper-based landline facilities that are expensive to maintain. " AT&T is allowed to upgrade those lines from copper to fiber, the agency said. 
+
+AT&T achieved its goal of deregulation in the other 20 states where it has wireline operations, Johnson said.  "While California is the last state to modernize, we've started a process there and we will continue to work towards this objective," she said. 
+
+The deregulation in other states already helped AT&T stop offering old services in "about 250,000 square miles where we have met the regulatory requirements to no longer offer regulated services because our customers have moved on to other services," Johnson said. 
+AT&T planned to hit that milestone by 2025 but achieved it this year, she said.  But as Johnson stressed, AT&T wants to get rid of copper in the remaining 500,000 square miles.  "This is really good progress. . .  however, without the full discontinuance of services across an entire wire center geography, we're unable to stop the maintenance, repair, and attack the more fixed infrastructure costs," she said. 
+
+Copper network degrading
+Johnson said that AT&T is "seeing declining reliability with storms and increased copper theft.  Copper simply does not do well with water and flooding, and repairs are very labor-intensive. " State regulators have said the declining reliability is largely AT&T's fault.  Many copper lines deteriorated because AT&T failed to do maintenance that would prevent lengthy outages and other troubles, a 2019 investigation by California state regulators found. 
+
+As noted earlier, AT&T said it plans to have no customers using copper in half of its territory by the end of 2027.  In the other half, where AT&T described a "fiber first" strategy, there will nonetheless be copper customers who won't get a fiber upgrade and will have to stop using copper by the end of 2029, Johnson said. 
+
+AT&T plans to build lots of fiber in the more populated half, but "not every customer location will be reached with fiber in these areas and we will still serve some of the customers in these areas with wireless alternatives," Johnson said.  AT&T's "plan is to have no customer using copper services in these wire center areas by the end of 2029. "
+
+The biggest beneficiaries of AT&T's copper retirement may be shareholders.  Johnson said the old network is an energy hog and has $6 billion in annual expenses.  "Overall, our legacy business is profitable today but the revenue declines are accelerating," she said. 
+
+AT&T is selling copper after it is decommissioned and leasing out some unused central offices.  "By targeting the complete customer transition in a wire center, with the least profitable wire centers first, we are able to remove these geographic costs and really optimize margins as we move towards exiting copper services," Johnson said. 
+
+Besides the 45 million existing and planned fiber locations, AT&T said its total fiber footprint by 2029 will include another 5 million or so locations through Gigapower, a joint venture with Blackrock, and agreements with commercial open-access providers. 

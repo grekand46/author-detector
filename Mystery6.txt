@@ -1,0 +1,52 @@
+A British judge ruled against a man who wants to excavate a landfill where he says a hard drive with access to thousands of bitcoins was mistakenly dumped over 11 years ago.
+
+Since 2013, James Howells has been hoping to recover a laptop hard drive that he says contains the private key for cryptocurrency which he says he mined in 2009. We wrote about it at the time, noting that the value of a bitcoin had just passed $1,000, making 7,500 bitcoins worth $7.5 million.
+
+The alleged number of bitcoins has changed a bit, with Howells now saying he lost 8,000 bitcoins. The bitcoin price exceeded $100,000 last month and was worth over $95,636 as of this writing, or $765 million for 8,000 bitcoins.
+
+High Court Judge Keyser KC issued his ruling yesterday, siding with the defendant in Howells v. Newport City Council. Howells has no realistic chance of success at trial, the judge ruled. Howells sought "an order that the defendant either deliver the hard drive or allow his team of experts to excavate the landfill in order to find it, and (in the alternative) compensation equivalent to the value of the Bitcoin that he can no longer access."
+Landfill authority owns the trash
+
+The council said that excavating the landfill site would let harmful substances escape into the environment, endangering residents with "potentially serious risks which raises public health issues and environmental concerns," the ruling said.
+
+The judge found no "reasonable grounds for bringing this case," saying it has "no realistic prospect of succeeding if it went to trial and that there is no other compelling reason why it should be disposed of at trial." He granted summary judgment for the defendant, dismissing the claim.
+
+The ruling quotes the Control of Pollution Act 1974, which states that "anything delivered to the authority by another person in the course of using the facilities shall belong to the authority and may be dealt with accordingly." Howells "submitted that section 14(6)(c) merely says that anything so delivered shall belong to the authority but does not say that it shall cease to belong to its former owner," the ruling said. The judge disagreed, writing that "the words 'shall belong to the authority' are unqualified and unrestricted."
+
+The judge found no reason to determine that the defendant retaining the hard drive is "unconscionable" under the law. "In my view there would be no realistic prospect of a finding that the defendant's retention of the Hard Drive was unconscionable. The defendant was not retaining it for gain or because it wanted it. It was retaining it because it was buried in landfill," the ruling said.
+Statute of limitations
+
+The claim is also barred by the six-year statute of limitations because Howells "knew the facts material to his claim by November 2013 but did not commence proceedings until May 2024," the ruling said.
+
+The judge didn't need to rule on whether the hard drive really contains access to bitcoin, saying that "the only relevant issues in this case concern ownership of, and rights of access to, the Hard Drive." Howells sought access to the landfill site in Newport, Wales, starting in November 2013 but local officials refused. He says the hard drive is 2½ inches in size and has a wallet.dat file containing a private key that can enable access to the bitcoin.
+
+The city council said excavation would breach the terms of its license with NRW (Natural Resources Body for Wales), cause health and safety risks for staff, risk damage from ground movement during or after excavation work, and prevent the council from "discharg[ing] its statutory waste disposal functions whilst the site is excavated."
+
+After his November 2013 outreach, Howells "made repeated requests to the defendant for access to the Site in order to find and retrieve the Hard Drive, but these were largely ignored by the defendant," the ruling said. "The claimant then set about securing investment and expertise to enable a team of experts to undertake a landfill excavation and recovery operation and in 2023 he began to advance his case formally to the defendant."
+“This ruling has taken everything from me”
+
+The BBC yesterday quoted Howells as saying that "the case being struck out at the earliest hearing doesn't even give me the opportunity to explain myself or an opportunity for justice in any shape or form. There was so much more that could have been explained in a full trial and that's what I was expecting."
+
+"It's not about greed, I'm happy to share the proceeds but nobody in a position of power will have a decent conversation with me... This ruling has taken everything from me and left me with nothing. It's the great British injustice system striking again," he said.
+
+In January 2021, CNN wrote that Howells "has offered to pay the council a quarter of the current value of the hoard, which he says could be distributed to local residents."
+Why the hard drive was dumped
+
+As for how the hard drive went to the landfill, Howells claims it "was taken from his home without his permission or consent on the morning of 5th August 2013," the ruling said.
+
+His ex-girlfriend, Halfina Eddy-Evans, said in a recent interview with the Daily Mail that she brought the hard drive and other unwanted belongings to the dump, at Howells' request. "I thought he should be running his errands, not me, but I did it to help out... I'd love nothing more than him to find it. I'm sick and tired of hearing about it," she said.
+
+The ruling describes Howells' version of the 2013 event as follows:
+
+    In his drawers he found two hard drives: one was the Hard Drive, and the other was a blank hard drive that contained no data. He meant to throw out the blank hard drive, but instead he mistakenly picked up the Hard Drive and put it into one of the black bin-liners. He then left the two bin bags downstairs in his house and asked his partner at the time to take them to the landfill at the Site the following day after completing the school run. However, she said that she did not want to take the black bin bags to the Site and refused to do so. The claimant was not overly concerned at her refusal, because he decided that on the following morning he would check to make sure that he had put the correct hard drive in the bin bags. However, when he awoke at 9 o'clock the following morning he found that his partner had had a change of heart and had already taken the bin bags to the Site and manually deposited them into the general waste bins at the Site.
+
+The ruling cited testimony that "the landfill contains around 350,000 tonnes of waste with a further 50,000 tonnes added annually. Once the skip at the reception area is full, the waste is emptied into the landfill, where it is then covered with inert material to minimise the release of gases or liquids and then compacted."
+Howells thinks data can be recovered
+
+Howells believes the hard drive may still be usable, according to a 2021 New Yorker article. "Although the covering of the drive was metal, the disk inside was glass," reporter D.T. Max wrote. "'It's actually coated in a cobalt layer that is anti-corrosive,' Howells told me. He conceded that the hard drive would have been subjected to some compacting when it was layered in with soil and other trash. But, however rough the process, it might not have fractured the disk and destroyed the drive's contents."
+
+The 2021 CNN report quoted Howells as saying he wanted to "dig a specific area of the landfill based on a grid reference system and recover the hard drive whilst adhering to all safety and environmental standards. The drive would then be presented to data recovery specialists who can rebuild the drive from scratch with new parts and attempt to recover the tiny piece of data that I need in order to access the bitcoins."
+
+Yesterday's ruling said that according to a report prepared for Howells, "in November 2013 the Hard Drive was 'probably' located 'within an area of approximately 2,000 square metres of the site' and 'within an approximate volume of 10,000-15,000 tonnes of waste.'"
+
+"It would be a criminal offence for the claimant or anyone acting for him to sort over or disturb any refuse deposited at the Site, unless he were authorised to do so by the defendant: see section 27 of CPA 1974 and section 60 of the Environmental Protection Act 1990," the ruling said. "The defendant could only give such authorisation, or excavate the Site itself, if it were first to apply for and obtain a new environmental permit from NRW, as the Schedule of permitted activities in its existing permit does not allow excavation of the Site."

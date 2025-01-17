@@ -1,0 +1,42 @@
+In November 2019, a beekeeper in Blaine, Washington, named Ted McFall was horrified to discover thousands of tiny mutilated bodies littering the ground—an entire colony of his honeybees had been brutally decapitated. The culprit: the Asian giant hornet (Vespa mandarinia), a species native to southeast Asia and parts of the Russian far East. Somehow, these so-called "murder hornets" had found their way to the Pacific Northwest, where they were posing a dire ecological threat to North American honeybee populations.
+
+The story of the quest to track and eradicate the hornets before their numbers became overwhelming is the subject of a new documentary: Attack of the Murder Hornets, now streaming on Discovery+. Featuring genuine suspense, a colorful cast of characters crossing socioeconomic lines, and a tone that draws on classic horror and science fiction movies, it's one of the best nature documentaries you're likely to see this year.
+
+Asian giant hornets are what's known as apex predators, sporting enormous mandibles that they use to rip the heads off their prey and remove the tasty thoraxes (which include muscles that power the bee's wings for flying and movement). A single hornet can decapitate 20 bees in one minute, and just a handful can wipe out 30,000 bees in 90 minutes. The hornet has a venomous, extremely painful sting—and its stinger is long enough to puncture traditional beekeeping suits. Conrad Berube, a beekeeper and entomologist who had the misfortune to be stung seven times while exterminating a murder hornet nest, told The New York Times, "It was like having red-hot thumbtacks being driven into my flesh." And while Japanese honeybees, for example, have evolved defenses against the murder hornet, North American honeybees have not, as the slaughter of McFall's colony aptly demonstrated.
+
+Director Michael Paul Stephenson's credits include two documentaries: Best Worst Movie—about his experience co-starring in the 1990 cult comedy/horror film Troll 2—and The American Scream. So when he pitched his idea for a documentary about the murder hornets to Discovery, some of that horror sensibility crept in, including B-movie-inspired artwork showing a gigantic hornet menacing beekeepers and scientists.
+
+"I've watched a lot of documentaries, and a lot of them, it's interview, B-roll, interview, B-roll, political statement, theme," he told Ars. Stephenson wanted to do something different and shoot his murder hornet documentary through a horror/sci-fi lens.
+<em>Attack of the Murder Hornets</em> is a nature documentary viewed through the lens of science fiction and horror.
+
+Enlarge / Attack of the Murder Hornets is a nature documentary viewed through the lens of science fiction and horror.
+
+Discovery Plus
+
+Among those featured in Attack of the Murder Hornets: Chris Looney, an entomologist with the Washington State Department of Agriculture (WSDA); McFall and fellow beekeeper Ruthie Danielson; a government scientist and insect expert named Sven-Erik Spichiger; and Berube, who was the first to find and destroy a murder hornet nest in Vancouver Island, Canada. Stephenson's team chronicled the race against the breeding clock to find and destroy a similar hornet nest in Washington state.
+
+Ars sat down with Stephenson to learn more.
+
+Ars Technica: What drew you to make a documentary about murder hornets?
+
+Michael Paul Stephenson: I read The New York Times article last May and thought, "Murder hornets? What is going on? We're all locked in our homes. Now we have murder hornets." Immediately, I was like, "This feels like a horror movie. It feels like a science fiction drama." I thought, "What does this look like through the lens of horror and science fiction? What is the Stranger Things version of this?" Discovery immediately connected to that sensibility. I'm always drawn to characters first, revealing themes through people who have something at stake. End of the day for me, it's "what's the story, who are the characters, how do you tell it in a way that people remember?" The story had this intriguing mix of government public service workers and scientists and beekeepers, all trying to stop an invasive species, having to deal with this gigantic hornet that is not native to the country.
+
+Ars Technica: Can you talk a bit about the camera technology and the overall look you were shooting for?
+
+Michael Paul Stephenson: The majority of the film was shot on two RED MONSTROs at 8K. It was really important to us to embrace natural light as much as possible. We had to shoot with very high-speed lenses because we were dealing with low light. We wanted this to feel like science in real time. We wanted it to feel like we are there with these people in this moment. And we wanted to give it a sense of design. What would the narrative version of the scene look like? Let's shoot it so that we can edit it as such. So it's about multiple cameras and coverage and making sure that we're not only covering our scientists, but we're covering the reaction of the scientist.
+
+I had planned on using drones early on—not too much because I think drones can be so overused. But I wanted to also shoot from the hornet's POV. Hornets articulate themselves in a totally different way than just the normal drone beauty shot. That's when I got tipped off about racing drones, which I had not used before. They're smaller, and the way they can articulate through the forest on a dime is very different from the regular drone.
+
+Ars Technica: I assume you also had to wear the special anti-murder hornet suit to avoid being stung.
+
+Michael Paul Stephenson: With the hornets specifically, I had to wear the same special suit [as the scientists], and it's its own form of terror. We had to wear those when we found the nest and if we got too close. The night of the eradication, it's dark. We're in suits. Nobody knew what was going to happen. We knew that these things can spray venom. They can sting.
+
+There was a moment, ironically, when I was shooting the bees at night with Ted [McFall], and we were surrounded by bees. I had a regular bee suit on, not the crazy hornet suit. As I'm suiting up, it's dark, and I see the silhouette of a bee crawl up right in front of my nose. And, I'm like, "Uh-oh. That's not good. That's on the inside of my mask." I had left a portion of my suit open. Within a minute of noticing that, I got stung six times because more bees got into my suit. I guess when a bee stings you, other bees will find it and they'll sting you, too.
+
+Michael Paul Stephenson, director of Attack of the Murder Hornets, struggles to don his special protective suit. (Credit: Karla Salp/Washington State Department of Agriculture)
+
+Ars Technica: A substantial portion of your film focuses on the efforts to track a murder hornet back to the nest. That whole sequence conveys just how hard doing science really is on a practical level. Things rarely work on the first attempt.
+
+Michael Paul Stephenson: Science is an iterative process, it progresses in fits and starts—not unlike creativity or making a movie. You fall a few times, get back up. It sounds wrong, but I loved the failure, because it shows the persistence and the commitment that these public servants have and the slim chance that they will succeed. It's easy to be critical of other people. "Oh, they should do this or they should do that." But there's few people who actually get in the ring and try to do the work, knowing that they face public scrutiny. Let's face it—the odds of them finding the nest were slim at best. Seeing them not give up—even as the public is like, "Ah, they failed"—only makes me appreciate what they're trying to do it for in the first place. I think that it gives you a real defining sense of their character and how important this is to them.
+
+I probably would have quit. While we were filming, I was expecting at some point for them to be like, "Ah, we're done. We're just not going to find this thing. Who knows what's going to happen? Maybe it won't be that big of a threat. We'll just roll the dice." Never once did they ever give me that sort of thing. They are heroes.
