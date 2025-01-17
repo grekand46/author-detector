@@ -1,0 +1,2 @@
+# author-detector
+Detects authors
